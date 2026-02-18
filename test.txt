@@ -1,1 +1,1 @@
-branch2: строка 3
+branch2 и branch1 объединились
